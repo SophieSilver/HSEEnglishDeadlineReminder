@@ -1,0 +1,14 @@
+.vscode
+__pycache__
+packaged
+venv
+.open
+API_TOKEN
+AUTH_CREDENTIALS
+data.json
+form.html
+lmsbot.zip
+LMS
+logs*
+stuff.txt
+test*
